@@ -25,7 +25,6 @@ public class LMqServlet extends HttpServlet {
     private static CommonDao cd = new CommonDao();
    /**
     * 李明强
-    * 
     */
     public LMqServlet() {
         super();
